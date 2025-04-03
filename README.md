@@ -14,8 +14,6 @@ Veriler gösteriyorki kazalar devamlı oluyor ve hayatımızı olumsuz etkiliyor
 ![image](https://github.com/user-attachments/assets/56a2d975-ae15-4d7b-861f-616b1fb37163)
 
 ![image](https://github.com/user-attachments/assets/a470211e-beb6-4cb1-abba-55ae8b1a4451)
-https://mustafadanabasi.com/izmir-kaza.html
-![image](https://github.com/user-attachments/assets/dcf3670c-b85b-4453-91fa-efe82ec6d5d7)
 
 
 
