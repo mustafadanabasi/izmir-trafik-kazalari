@@ -1,7 +1,7 @@
 Bu çalışma İzmir ilindeki 2023 ve 2024 yıllarında yaşanan trafik kazalarının analizleri ve bunlara alınabilecek önlemlerin yer aldığı bir araştırmadır. 
 Kaza analizlerine lokasyon, mevsimsel ve zamansal bakış açısı benimsenmiştir. Bu bakış açılarına göre dağılımlar çıkarılmış ve bu dağılımlara göre analizler yapılıp önlemler ve öneriler verilmiştir.
 
-Çalışmanın Amacı ve Önemi
+
 Karayolları üzerinde güvenliği tehlikeye sokabilecek trafik kazaları olabilmektedir. Bu kazalar başta yol, insan ve araç faktörleri olmak üzere pek çok olumsuz faktörün bir araya gelmesinden kaynaklanmaktadır. Meydana gelen kazalar, kazanın şiddetine bağlı olarak maddi hasarlı, yaralanmalı veya ölümlü olarak sonuçlanmaktadır. Yol güvenliğini artırmak amacıyla çeşitli araştırmacılar tarafından trafik kazalarının sebeplerinin ve kara nokta olarak isimlendirilen kritik kesimlerin bulunması konusunda çalışmalar yapılmaktadır. Bu çalışma ile birlikte kritik caddeler ve zaman aralıkları belirlenmiş ve kaza önleme çalışmaları için yararlı olabilecektir.
 Trafik kazaları maddi sonuçların yanında istenmeyen bir durum olan yaralanma veya ölüm ile sonuçlanmaktadır. Bu çalışmada Türkiye’nin İzmir ilinde 2023 ve 2024 yıllarında meydana gelmiş olan trafik kaza verileri kullanılmıştır. Bu çalışmada trafik kazalarının analiz edilmesi ve geleceğe dönük alınabilecek önlemlerin çıkarılması amaçlanmaktadır. 
 Bu zaman diliminde yaşanan kazaların günlük, aylık ortalamalarının tespit edilmesi, geleceğe yönelik tahminlerin yapılması ve harita üzerinde kazaların gösterimi ile daha net gözlenmesi ve gerekli önlemlerin alınması için yapılan bir çalışmalar bütünüdür.
