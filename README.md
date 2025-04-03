@@ -7,13 +7,17 @@ Trafik kazaları maddi sonuçların yanında istenmeyen bir durum olan yaralanma
 Bu zaman diliminde yaşanan kazaların günlük, aylık ortalamalarının tespit edilmesi, geleceğe yönelik tahminlerin yapılması ve harita üzerinde kazaların gösterimi ile daha net gözlenmesi ve gerekli önlemlerin alınması için yapılan bir çalışmalar bütünüdür.
 Veriler gösteriyorki kazalar devamlı oluyor ve hayatımızı olumsuz etkiliyor. Bu kazaların önüne geçerek, azaltarak ve zamanla yok ederek kazasız bir yaşam oluşturmalıyız. Bunun için öncelikle durum tespiti yapmak gerekiyor. Bu raporda veriler ışığında farklı dağılımlar ile durum tespiti yapılmıştır.
 
+Isı haritasını aşağıdaki link üzerinden incelenebilir.
+
+https://mustafadanabasi.com/izmir-kaza.html
+
 ![image](https://github.com/user-attachments/assets/d084a53a-c450-47e7-97b1-c886e082af6d)
 
 ![image](https://github.com/user-attachments/assets/e8493384-5bc0-4e2f-9894-aeb643dcc615)
 
 ![image](https://github.com/user-attachments/assets/56a2d975-ae15-4d7b-861f-616b1fb37163)
 
-![image](https://github.com/user-attachments/assets/a470211e-beb6-4cb1-abba-55ae8b1a4451)
+
 
 
 
